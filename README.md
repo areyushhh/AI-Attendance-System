@@ -1,2 +1,6 @@
-# AI-Attendance-System
-Offline attendance logger app that marks presence of users in a CSV file; lightweight AI attendance demo.
+# ai-attendance-system
+
+A lightweight attendance logger (CSV) demo. Usage:
+```
+python attendance.py Alice
+```
