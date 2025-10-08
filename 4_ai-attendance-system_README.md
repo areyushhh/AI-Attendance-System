@@ -8,8 +8,7 @@ Offline attendance logger app that marks presence of users in a CSV file; lightw
 - Python
 - CSV
 
-## Demo
-[Insert screenshot here]
+
 
 
 
