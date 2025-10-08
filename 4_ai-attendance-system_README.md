@@ -11,10 +11,7 @@ Offline attendance logger app that marks presence of users in a CSV file; lightw
 ## Demo
 [Insert screenshot here]
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+
 
 ## Setup & Run Instructions
 ```bash
